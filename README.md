@@ -1,0 +1,2 @@
+1. Try building with sh ./build-debug.sh and observe that you cannot step into hello_two.
+2. Try buildind with sh ./build-debug-fix.sh (you need to install llvm via brew) and observe that you can step into hello_two.
